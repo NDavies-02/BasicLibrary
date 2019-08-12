@@ -1,0 +1,11 @@
+                                                                                                                                                                                                                                                                                                                                    
+123       Harry Potter                  6.5  
+234       Steve Jobs                    12.50
+234       Steve Jobs                    7.0  
+567       Pride and Prejudice           7.0  
+987       The Hunger Games              15.50
+789       1984                          5.50  
+
+12133     test                          5    
+utyuytuyu ytutyuu                       5    
+1234      Compendium                    10   

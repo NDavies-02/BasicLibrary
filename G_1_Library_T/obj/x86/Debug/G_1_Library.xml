@@ -1,0 +1,30 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+G_1_Library
+</name>
+</assembly>
+<members>
+<member name="M:G_1_Library.Module1.viewAllBooks(System.Windows.Forms.ListBox)">
+	<summary>
+ show the book title in the listbox
+ </summary>
+	<param name="myListbox">listbox name</param>
+	<remarks></remarks>
+</member><member name="P:G_1_Library.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:G_1_Library.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:G_1_Library.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

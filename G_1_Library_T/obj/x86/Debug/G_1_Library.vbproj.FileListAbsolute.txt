@@ -1,0 +1,10 @@
+C:\Users\KWP\AppData\Local\Temporary Projects\G_1_Library\bin\Debug\G_1_Library.exe
+C:\Users\KWP\AppData\Local\Temporary Projects\G_1_Library\bin\Debug\G_1_Library.pdb
+C:\Users\KWP\AppData\Local\Temporary Projects\G_1_Library\bin\Debug\G_1_Library.xml
+C:\Users\KWP\AppData\Local\Temporary Projects\G_1_Library\obj\x86\Debug\G_1_Library.frmMenu.resources
+C:\Users\KWP\AppData\Local\Temporary Projects\G_1_Library\obj\x86\Debug\G_1_Library.frmViewBooks.resources
+C:\Users\KWP\AppData\Local\Temporary Projects\G_1_Library\obj\x86\Debug\G_1_Library.Resources.resources
+C:\Users\KWP\AppData\Local\Temporary Projects\G_1_Library\obj\x86\Debug\G_1_Library.vbproj.GenerateResource.Cache
+C:\Users\KWP\AppData\Local\Temporary Projects\G_1_Library\obj\x86\Debug\G_1_Library.exe
+C:\Users\KWP\AppData\Local\Temporary Projects\G_1_Library\obj\x86\Debug\G_1_Library.xml
+C:\Users\KWP\AppData\Local\Temporary Projects\G_1_Library\obj\x86\Debug\G_1_Library.pdb
